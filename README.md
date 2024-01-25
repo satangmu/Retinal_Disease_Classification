@@ -21,6 +21,17 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 데이터 셋
+
+
+## 평가
+- ROC Curve AUC Score 
+
+<img src="https://github.com/satangmu/Retinal_Disease_Classification/assets/148983269/7fc7c192-96c6-479f-b874-a653ba0d4c09" width="400">
+
+
+
+
 --- 
 ## 프로젝트 작업과정
 

@@ -22,7 +22,10 @@
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 데이터 셋
-
+- 출처 : https://www.kaggle.com/datasets/andrewmvd/retinal-disease-classification
+- Train : 1920개
+- Valid : 540개
+- Test : 540개
 
 ## 평가
 - ROC Curve AUC Score 
